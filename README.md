@@ -3,7 +3,7 @@
 A frontend clone of Amazon's homepage built using pure HTML and CSS.
 
 ## 🖥️ Live Demo
-[Click here to view live](https://vidhya-majee.github.io/amazon-clone)
+[Click here to view live]( https://vidhya-majee.github.io/Amazon-Clone/)
 
 ## 📸 Features
 - Responsive Navbar with search bar and icons
